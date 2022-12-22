@@ -1,0 +1,618 @@
+System memory parameter values:
+222.8 -total 5.6 -free 161.2 -used 56.0 -buff/cashe
+820.0 -total 679.7 -free 140.2 -used 53.2 -buff/cashe
+   1334 user      20   0  228428   7820   1832 R  12.0   3.4   0:00.70 mem2.bash
+   1333 user      20   0  228560   8060   1804 R   8.0   3.5   0:00.72 mem.bash
+1333
+1334
+1344
+1
+2
+
+222.8 -total 3.4 -free 166.7 -used 52.7 -buff/cashe
+820.0 -total 661.0 -free 159.0 -used 57.8 -buff/cashe
+   1333 user      20   0  239516  17064   1220 R  30.4   7.5   0:02.02 mem.bash
+   1334 user      20   0  239516  17084   1164 R  26.1   7.5   0:02.02 mem2.bash
+1333
+1334
+1227
+40
+1
+
+222.8 -total 2.6 -free 161.0 -used 59.1 -buff/cashe
+820.0 -total 648.4 -free 171.5 -used 55.4 -buff/cashe
+   1334 user      20   0  245588  19500    988 R  15.0   8.5   0:02.74 mem2.bash
+   1333 user      20   0  245588  19340    964 R   5.0   8.5   0:02.74 mem.bash
+1137
+1227
+1234
+9
+40
+
+222.8 -total 3.3 -free 159.2 -used 60.2 -buff/cashe
+820.0 -total 627.3 -free 192.6 -used 57.7 -buff/cashe
+   1333 user      20   0  252848  17552    944 R  15.0   7.7   0:03.61 mem.bash
+   1334 user      20   0  252716  17288    932 R  15.0   7.6   0:03.59 mem2.bash
+1334
+1137
+40
+1227
+1
+
+222.8 -total 3.9 -free 163.9 -used 55.0 -buff/cashe
+820.0 -total 627.1 -free 192.9 -used 51.3 -buff/cashe
+   1334 user      20   0  260768  18132    892 R  17.9   7.9   0:04.57 mem2.bash
+   1333 user      20   0  260504  17912    904 R  14.3   7.9   0:04.55 mem.bash
+1333
+1334
+1227
+1
+2
+
+222.8 -total 6.0 -free 164.1 -used 52.7 -buff/cashe
+820.0 -total 603.7 -free 216.2 -used 51.9 -buff/cashe
+   1333 user      20   0  274364  24948    876 R  22.2  10.9   0:06.20 mem.bash
+   1334 user      20   0  274496  25072    876 R  18.5  11.0   0:06.22 mem2.bash
+1334
+1333
+1
+2
+3
+
+222.8 -total 2.7 -free 166.9 -used 53.1 -buff/cashe
+820.0 -total 579.5 -free 240.5 -used 53.8 -buff/cashe
+   1333 user      20   0  285716  24244   1140 R  22.6  10.6   0:07.56 mem.bash
+   1334 user      20   0  285848  23956   1052 R  12.9  10.5   0:07.55 mem2.bash
+1333
+1334
+1227
+1234
+1398
+
+222.8 -total 3.3 -free 170.7 -used 48.9 -buff/cashe
+820.0 -total 559.0 -free 261.0 -used 50.8 -buff/cashe
+   1333 user      20   0  297068  23248    888 R  20.0  10.2   0:08.91 mem.bash
+   1334 user      20   0  297068  23136    880 R  16.7  10.1   0:08.91 mem2.bash
+1334
+1333
+1227
+1
+2
+
+222.8 -total 5.9 -free 159.9 -used 57.0 -buff/cashe
+820.0 -total 537.2 -free 282.8 -used 55.7 -buff/cashe
+   1333 user      20   0  305516  24132   1080 R  27.3  10.6   0:09.91 mem.bash
+   1334 user      20   0  305516  24004   1016 R  27.3  10.5   0:09.92 mem2.bash
+1334
+1333
+1
+2
+3
+
+222.8 -total 2.4 -free 163.4 -used 57.0 -buff/cashe
+820.0 -total 521.0 -free 299.0 -used 50.8 -buff/cashe
+   1333 user      20   0  316604  24792   1120 R  26.9  10.9   0:11.23 mem.bash
+   1334 user      20   0  316472  24620    996 R  11.5  10.8   0:11.22 mem2.bash
+1333
+1334
+1227
+1
+2
+
+222.8 -total 4.4 -free 167.8 -used 50.6 -buff/cashe
+820.0 -total 501.0 -free 319.0 -used 47.5 -buff/cashe
+   1333 user      20   0  328088  22608    876 R  23.3   9.9   0:12.61 mem.bash
+   1334 user      20   0  328352  22572    868 R  20.0   9.9   0:12.62 mem2.bash
+1333
+1334
+1434
+1
+2
+
+222.8 -total 2.6 -free 158.1 -used 62.1 -buff/cashe
+820.0 -total 474.7 -free 345.2 -used 61.5 -buff/cashe
+   1333 user      20   0  334292  19560    884 R  31.6   8.6   0:13.35 mem.bash
+   1334 user      20   0  334424  19788    892 R  21.1   8.7   0:13.35 mem2.bash
+1334
+1333
+1227
+1
+2
+
+222.8 -total 3.8 -free 167.6 -used 51.4 -buff/cashe
+820.0 -total 470.0 -free 350.0 -used 51.4 -buff/cashe
+   1333 user      20   0  341156  18056    896 R  20.6   7.9   0:14.18 mem.bash
+   1334 user      20   0  341156  17960    904 R  20.6   7.9   0:14.17 mem2.bash
+1334
+1333
+1227
+1452
+1
+
+222.8 -total 4.3 -free 164.5 -used 54.0 -buff/cashe
+820.0 -total 446.5 -free 373.5 -used 57.9 -buff/cashe
+   1333 user      20   0  350132  20952    860 R  20.0   9.2   0:15.24 mem.bash
+   1334 user      20   0  350264  20860    868 R  20.0   9.1   0:15.25 mem2.bash
+1137
+1227
+1334
+40
+1333
+
+222.8 -total 4.9 -free 172.5 -used 45.4 -buff/cashe
+820.0 -total 427.9 -free 392.1 -used 50.2 -buff/cashe
+   1333 user      20   0  358844  17048    832 R  20.0   7.5   0:16.29 mem.bash
+   1334 user      20   0  358844  16892    844 R  16.7   7.4   0:16.28 mem2.bash
+1334
+40
+386
+1137
+1193
+
+222.8 -total 4.2 -free 165.4 -used 53.2 -buff/cashe
+820.0 -total 418.5 -free 401.4 -used 52.8 -buff/cashe
+   1333 user      20   0  368348  19632    952 R  33.3   8.6   0:17.42 mem.bash
+   1334 user      20   0  368612  19808    960 R  33.3   8.7   0:17.44 mem2.bash
+1333
+1334
+1227
+1234
+1
+
+222.8 -total 6.2 -free 161.5 -used 55.1 -buff/cashe
+820.0 -total 394.0 -free 426.0 -used 61.3 -buff/cashe
+   1334 user      20   0  377720  21372    872 R  23.1   9.4   0:18.52 mem2.bash
+   1333 user      20   0  377456  21208    856 R  19.2   9.3   0:18.51 mem.bash
+1333
+1334
+1070
+1227
+1
+
+222.8 -total 3.2 -free 163.0 -used 56.5 -buff/cashe
+820.0 -total 389.0 -free 431.0 -used 53.7 -buff/cashe
+   1333 user      20   0  385244  22320    860 R  22.2   9.8   0:19.43 mem.bash
+   1334 user      20   0  385508  22344    876 R  18.5   9.8   0:19.45 mem2.bash
+1227
+1333
+1334
+386
+1137
+
+222.8 -total 2.6 -free 161.8 -used 58.4 -buff/cashe
+820.0 -total 368.5 -free 451.5 -used 58.0 -buff/cashe
+   1334 user      20   0  392636  18500    876 R   6.1   8.1   0:20.30 mem2.bash
+   1333 user      20   0  392372  18456    864 R   3.0   8.1   0:20.28 mem.bash
+1227
+1334
+40
+1333
+1
+
+222.8 -total 4.3 -free 163.3 -used 55.2 -buff/cashe
+820.0 -total 356.5 -free 463.5 -used 52.4 -buff/cashe
+   1333 user      20   0  401216  20756    876 R  15.0   9.1   0:21.35 mem.bash
+   1334 user      20   0  401612  20776    888 R  15.0   9.1   0:21.36 mem2.bash
+1334
+1333
+1515
+1
+2
+
+222.8 -total 3.9 -free 172.1 -used 46.8 -buff/cashe
+820.0 -total 332.5 -free 487.5 -used 52.5 -buff/cashe
+   1334 user      20   0  413096  22412    872 R   6.2   9.8   0:22.73 mem2.bash
+   1333 user      20   0  412964  22452    860 R   3.1   9.8   0:22.72 mem.bash
+1333
+1334
+1227
+1524
+1
+
+222.8 -total 5.9 -free 158.8 -used 58.1 -buff/cashe
+820.0 -total 317.7 -free 502.2 -used 53.8 -buff/cashe
+   1334 user      20   0  421016  23892    984 R  36.4  10.5   0:23.67 mem2.bash
+   1333 user      20   0  420884  23908   1024 R  31.8  10.5   0:23.68 mem.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 2.6 -free 168.6 -used 51.6 -buff/cashe
+820.0 -total 300.0 -free 520.0 -used 55.8 -buff/cashe
+   1333 user      20   0  429596  21108    880 R  16.1   9.3   0:24.71 mem.bash
+   1334 user      20   0  429596  20956    856 R   9.7   9.2   0:24.71 mem2.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 2.9 -free 146.7 -used 73.3 -buff/cashe
+820.0 -total 274.5 -free 545.5 -used 64.9 -buff/cashe
+   1333 user      20   0  436856  17304    908 R  27.3   7.6   0:25.59 mem.bash
+   1334 user      20   0  436988  17356    888 R  27.3   7.6   0:25.59 mem2.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 3.2 -free 158.1 -used 61.5 -buff/cashe
+820.0 -total 268.5 -free 551.5 -used 58.6 -buff/cashe
+   1333 user      20   0  443060  20532    996 R  21.7   9.0   0:26.32 mem.bash
+   1334 user      20   0  443060  20596    940 R  13.0   9.0   0:26.32 mem2.bash
+1334
+1333
+1
+2
+3
+
+222.8 -total 3.4 -free 163.8 -used 55.7 -buff/cashe
+820.0 -total 256.5 -free 563.5 -used 55.8 -buff/cashe
+   1333 user      20   0  451508  20032    904 R  12.0   8.8   0:27.33 mem.bash
+   1334 user      20   0  451508  20156    888 R   8.0   8.8   0:27.33 mem2.bash
+1333
+1334
+1227
+40
+386
+
+222.8 -total 3.0 -free 164.2 -used 55.6 -buff/cashe
+820.0 -total 239.2 -free 580.8 -used 55.5 -buff/cashe
+   1333 user      20   0  460616  21520    824 R  15.4   9.4   0:28.42 mem.bash
+   1334 user      20   0  460616  21380    836 R  15.4   9.4   0:28.42 mem2.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 3.2 -free 160.6 -used 59.1 -buff/cashe
+820.0 -total 222.1 -free 597.9 -used 53.5 -buff/cashe
+   1333 user      20   0  471440  25732    888 R  25.8  11.3   0:29.73 mem.bash
+   1334 user      20   0  471440  25800    880 R  16.1  11.3   0:29.72 mem2.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 5.1 -free 167.0 -used 50.7 -buff/cashe
+820.0 -total 193.0 -free 627.0 -used 57.4 -buff/cashe
+   1333 user      20   0  482264  23860   1044 R  24.0  10.5   0:31.00 mem.bash
+   1334 user      20   0  482132  23596   1000 R  12.0  10.3   0:30.98 mem2.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 5.5 -free 166.4 -used 50.8 -buff/cashe
+820.0 -total 186.4 -free 633.6 -used 47.5 -buff/cashe
+   1334 user      20   0  489392  26192   1000 R  25.0  11.5   0:31.85 mem2.bash
+   1333 user      20   0  489392  26236   1036 R  15.0  11.5   0:31.84 mem.bash
+1334
+40
+698
+1234
+1333
+
+222.8 -total 3.6 -free 164.4 -used 54.8 -buff/cashe
+820.0 -total 172.6 -free 647.4 -used 51.0 -buff/cashe
+   1333 user      20   0  495728  24396    884 R  13.0  10.7   0:32.59 mem.bash
+   1334 user      20   0  495596  24332    900 R   4.3  10.7   0:32.58 mem2.bash
+1334
+1333
+786
+1137
+1
+
+222.8 -total 2.4 -free 164.7 -used 55.7 -buff/cashe
+820.0 -total 153.0 -free 667.0 -used 53.1 -buff/cashe
+   1333 user      20   0  507872  24980    832 R  20.0  10.9   0:34.06 mem.bash
+   1334 user      20   0  507872  24960    852 R  20.0  10.9   0:34.06 mem2.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 5.4 -free 164.3 -used 53.1 -buff/cashe
+820.0 -total 132.7 -free 687.3 -used 49.1 -buff/cashe
+   1334 user      20   0  517904  19944    840 R  16.7   8.7   0:35.25 mem2.bash
+   1333 user      20   0  518036  20044    816 R  12.5   8.8   0:35.25 mem.bash
+1333
+1334
+40
+386
+1137
+
+222.8 -total 4.0 -free 169.1 -used 49.7 -buff/cashe
+820.0 -total 125.1 -free 694.9 -used 43.9 -buff/cashe
+   1334 user      20   0  527144  26508   1008 R  37.5  11.6   0:36.34 mem2.bash
+   1333 user      20   0  527144  26340   1040 R  31.2  11.5   0:36.33 mem.bash
+1333
+40
+1234
+1334
+9
+
+222.8 -total 2.7 -free 156.5 -used 63.6 -buff/cashe
+820.0 -total 99.4 -free 720.6 -used 56.4 -buff/cashe
+   1333 user      20   0  533744  22212    796 R  20.8   9.7   0:37.12 mem.bash
+   1334 user      20   0  533612  22156    800 R  16.7   9.7   0:37.12 mem2.bash
+1333
+1334
+40
+386
+1
+
+222.8 -total 4.1 -free 157.4 -used 61.4 -buff/cashe
+820.0 -total 86.2 -free 733.8 -used 61.4 -buff/cashe
+   1333 user      20   0  538892  19380    880 R  30.4   8.5   0:37.77 mem.bash
+   1334 user      20   0  538760  19356    876 R  26.1   8.5   0:37.75 mem2.bash
+1334
+1333
+40
+1070
+1227
+
+222.8 -total 4.0 -free 157.8 -used 61.0 -buff/cashe
+820.0 -total 79.3 -free 740.7 -used 56.7 -buff/cashe
+   1333 user      20   0  544964  16820    824 R   6.0   7.4   0:38.48 mem.bash
+   1334 user      20   0  544964  16768    832 R   2.0   7.3   0:38.48 mem2.bash
+1227
+40
+1137
+1333
+1334
+
+222.8 -total 3.6 -free 170.0 -used 49.2 -buff/cashe
+820.0 -total 71.9 -free 748.0 -used 48.8 -buff/cashe
+   1334 user      20   0  553412  12804    832 R   5.7   5.6   0:39.49 mem2.bash
+   1333 user      20   0  553412  12984    828 R   3.8   5.7   0:39.48 mem.bash
+1333
+1334
+40
+386
+1137
+
+222.8 -total 4.7 -free 156.8 -used 61.3 -buff/cashe
+820.0 -total 48.3 -free 771.7 -used 56.8 -buff/cashe
+   1333 user      20   0  560276  18776    964 R  36.8   8.2   0:40.31 mem.bash
+   1334 user      20   0  560012  18688    932 R  26.3   8.2   0:40.28 mem2.bash
+1333
+1334
+40
+386
+1137
+
+222.8 -total 2.7 -free 166.0 -used 54.0 -buff/cashe
+820.0 -total 41.2 -free 778.8 -used 48.7 -buff/cashe
+   1333 user      20   0  567668  22876    964 R  29.4  10.0   0:41.19 mem.bash
+   1334 user      20   0  567536  22804    932 R  17.6  10.0   0:41.18 mem2.bash
+1333
+1334
+1
+2
+3
+
+222.8 -total 5.3 -free 173.7 -used 43.8 -buff/cashe
+820.0 -total 22.9 -free 797.1 -used 53.4 -buff/cashe
+   1333 user      20   0  575720  19312    824 R   6.7   8.5   0:42.16 mem.bash
+   1334 user      20   0  575588  19420    828 R   6.7   8.5   0:42.15 mem2.bash
+1334
+1333
+1
+2
+3
+
+222.8 -total 2.8 -free 164.0 -used 55.9 -buff/cashe
+820.0 -total 0.0 -free 820.0 -used 57.4 -buff/cashe
+   1334 user      20   0  584828  21348    808 R  12.5   9.4   0:43.25 mem2.bash
+   1333 user      20   0  584960  21508    808 R   9.4   9.4   0:43.24 mem.bash
+1334
+1333
+1137
+1
+2
+
+222.8 -total 3.7 -free 177.8 -used 41.3 -buff/cashe
+820.0 -total 334.6 -free 485.4 -used 60.2 -buff/cashe
+   1333 user      20   0  605024  40868   1448 R  31.0  17.9   0:46.39 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 2.7 -free 153.9 -used 66.2 -buff/cashe
+820.0 -total 320.6 -free 499.4 -used 58.1 -buff/cashe
+   1333 user      20   0  620864  44064   1124 R  66.7  19.3   0:48.28 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 2.9 -free 168.5 -used 51.4 -buff/cashe
+820.0 -total 314.4 -free 505.6 -used 45.8 -buff/cashe
+   1333 user      20   0  636704  51400   1100 R  38.9  22.5   0:50.14 mem.bash
+1333
+1137
+40
+1
+2
+
+222.8 -total 2.4 -free 166.9 -used 53.5 -buff/cashe
+820.0 -total 292.0 -free 528.0 -used 58.5 -buff/cashe
+   1333 user      20   0  647264  33632    812 R  11.5  14.7   0:51.40 mem.bash
+1227
+1137
+1333
+1
+2
+
+222.8 -total 4.1 -free 158.2 -used 60.4 -buff/cashe
+820.0 -total 279.6 -free 540.4 -used 56.8 -buff/cashe
+   1333 user      20   0  661916  38568    992 R  46.2  16.9   0:53.17 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 5.7 -free 164.2 -used 52.8 -buff/cashe
+820.0 -total 267.5 -free 552.5 -used 48.7 -buff/cashe
+   1333 user      20   0  684488  52780    876 R  77.8  23.1   0:55.85 mem.bash
+1333
+1193
+1
+2
+3
+
+222.8 -total 3.8 -free 172.0 -used 47.0 -buff/cashe
+820.0 -total 244.7 -free 575.3 -used 47.7 -buff/cashe
+   1333 user      20   0  715376  64604    904 R  28.6  28.3   0:59.52 mem.bash
+1333
+1227
+40
+1779
+1
+
+222.8 -total 2.7 -free 162.0 -used 58.1 -buff/cashe
+820.0 -total 211.7 -free 608.3 -used 52.6 -buff/cashe
+   1333 user      20   0  737948  58892    856 R  48.1  25.8   1:02.23 mem.bash
+1333
+1227
+1
+2
+3
+
+222.8 -total 3.9 -free 170.2 -used 48.7 -buff/cashe
+820.0 -total 198.2 -free 621.8 -used 44.3 -buff/cashe
+   1333 user      20   0  762632  60992    968 R  29.8  26.7   1:05.21 mem.bash
+1333
+786
+1797
+1
+2
+
+222.8 -total 3.8 -free 155.7 -used 63.3 -buff/cashe
+820.0 -total 164.3 -free 655.7 -used 60.3 -buff/cashe
+   1333 user      20   0  776096  48564    796 R  76.5  21.3   1:06.84 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 5.1 -free 161.3 -used 56.3 -buff/cashe
+820.0 -total 155.8 -free 664.2 -used 53.8 -buff/cashe
+   1333 user      20   0  791408  57012    940 R  64.7  25.0   1:08.64 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 2.4 -free 167.2 -used 53.2 -buff/cashe
+820.0 -total 142.8 -free 677.2 -used 56.0 -buff/cashe
+   1333 user      20   0  803156  53072    792 R  40.9  23.3   1:10.05 mem.bash
+1333
+40
+1137
+1
+2
+
+222.8 -total 4.0 -free 162.1 -used 56.7 -buff/cashe
+820.0 -total 124.7 -free 695.3 -used 63.0 -buff/cashe
+   1333 user      20   0  814112  30268    728 R  46.2  13.3   1:11.38 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 4.4 -free 165.9 -used 52.4 -buff/cashe
+820.0 -total 121.8 -free 698.2 -used 49.2 -buff/cashe
+   1333 user      20   0  832988  44152    964 R  60.0  19.4   1:13.67 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 5.1 -free 179.4 -used 38.2 -buff/cashe
+820.0 -total 91.2 -free 728.8 -used 52.6 -buff/cashe
+   1333 user      20   0  862424  47988    924 R  43.3  21.0   1:17.23 mem.bash
+1333
+1227
+1
+2
+3
+
+222.8 -total 3.0 -free 170.8 -used 49.0 -buff/cashe
+820.0 -total 72.2 -free 747.8 -used 48.6 -buff/cashe
+   1333 user      20   0  887108  60768    884 R  52.2  26.6   1:20.18 mem.bash
+1333
+1137
+1
+2
+3
+
+222.8 -total 3.1 -free 154.5 -used 65.2 -buff/cashe
+820.0 -total 45.1 -free 774.9 -used 61.1 -buff/cashe
+   1333 user      20   0  897668  45344    696 R  42.1  19.9   1:21.45 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 4.1 -free 161.5 -used 57.2 -buff/cashe
+820.0 -total 41.7 -free 778.3 -used 52.7 -buff/cashe
+   1333 user      20   0  909020  53452    808 R  68.8  23.4   1:22.80 mem.bash
+1333
+40
+1
+2
+3
+
+222.8 -total 2.6 -free 170.3 -used 49.9 -buff/cashe
+820.0 -total 32.2 -free 787.8 -used 51.0 -buff/cashe
+   1333 user      20   0  922220  48948    680 R  48.1  21.5   1:24.40 mem.bash
+1333
+1
+2
+3
+4
+
+222.8 -total 4.3 -free 164.3 -used 54.1 -buff/cashe
+820.0 -total 18.2 -free 801.8 -used 49.9 -buff/cashe
+   1333 user      20   0  937400  46036    724 R  10.0  20.2   1:26.19 mem.bash
+1333
+1227
+40
+1137
+1897
+
+222.8 -total 4.8 -free 165.3 -used 52.7 -buff/cashe
+820.0 -total 0.0 -free 820.0 -used 51.2 -buff/cashe
+   1333 user      20   0  955220  53804    628 R   2.1  23.6   1:28.34 mem.bash
+1137
+1227
+1333
+1906
+40
+
+222.8 -total 5.6 -free 175.3 -used 41.9 -buff/cashe
+820.0 -total 0.0 -free 820.0 -used 37.3 -buff/cashe
+   1333 user      20   0  970268  69048   1256 R   0.7  30.3   1:30.56 mem.bash
+40
+386
+1227
+1137
+1193
